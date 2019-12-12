@@ -1,0 +1,8 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\obj\Debug\PizzaParlor.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\bin\Debug\PizzaParlor.exe.config
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\bin\Debug\PizzaParlor.exe
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\bin\Debug\PizzaParlor.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\obj\Debug\PizzaParlor.exe
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\obj\Debug\PizzaParlor.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\PizzaParlor\PizzaParlor\obj\Debug\PizzaParlor.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\bin\Debug\netcoreapp2.1\FirstClassProject.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\bin\Debug\netcoreapp2.1\FirstClassProject.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\bin\Debug\netcoreapp2.1\FirstClassProject.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\bin\Debug\netcoreapp2.1\FirstClassProject.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\bin\Debug\netcoreapp2.1\FirstClassProject.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\obj\Debug\netcoreapp2.1\FirstClassProject.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\obj\Debug\netcoreapp2.1\FirstClassProject.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\obj\Debug\netcoreapp2.1\FirstClassProject.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\obj\Debug\netcoreapp2.1\FirstClassProject.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\obj\Debug\netcoreapp2.1\FirstClassProject.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\FirstClassProject\FirstClassProject\obj\Debug\netcoreapp2.1\FirstClassProject.pdb

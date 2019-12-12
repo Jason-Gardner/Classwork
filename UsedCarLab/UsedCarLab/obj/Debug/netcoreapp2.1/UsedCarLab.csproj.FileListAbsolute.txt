@@ -1,0 +1,10 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\bin\Debug\netcoreapp2.1\UsedCarLab.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\bin\Debug\netcoreapp2.1\UsedCarLab.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\bin\Debug\netcoreapp2.1\UsedCarLab.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\bin\Debug\netcoreapp2.1\UsedCarLab.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\bin\Debug\netcoreapp2.1\UsedCarLab.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\obj\Debug\netcoreapp2.1\UsedCarLab.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\obj\Debug\netcoreapp2.1\UsedCarLab.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\obj\Debug\netcoreapp2.1\UsedCarLab.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\obj\Debug\netcoreapp2.1\UsedCarLab.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\UsedCarLab\UsedCarLab\obj\Debug\netcoreapp2.1\UsedCarLab.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\bin\Debug\netcoreapp2.1\LabNine.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\bin\Debug\netcoreapp2.1\LabNine.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\bin\Debug\netcoreapp2.1\LabNine.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\bin\Debug\netcoreapp2.1\LabNine.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\bin\Debug\netcoreapp2.1\LabNine.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\obj\Debug\netcoreapp2.1\LabNine.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\obj\Debug\netcoreapp2.1\LabNine.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\obj\Debug\netcoreapp2.1\LabNine.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\obj\Debug\netcoreapp2.1\LabNine.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\obj\Debug\netcoreapp2.1\LabNine.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabNine\LabNine\obj\Debug\netcoreapp2.1\LabNine.pdb

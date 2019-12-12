@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\bin\Debug\netcoreapp2.1\Exercise4344.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\bin\Debug\netcoreapp2.1\Exercise4344.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\bin\Debug\netcoreapp2.1\Exercise4344.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\bin\Debug\netcoreapp2.1\Exercise4344.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\bin\Debug\netcoreapp2.1\Exercise4344.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\obj\Debug\netcoreapp2.1\Exercise4344.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\obj\Debug\netcoreapp2.1\Exercise4344.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\obj\Debug\netcoreapp2.1\Exercise4344.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\obj\Debug\netcoreapp2.1\Exercise4344.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\obj\Debug\netcoreapp2.1\Exercise4344.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise4344\Exercise4344\obj\Debug\netcoreapp2.1\Exercise4344.pdb

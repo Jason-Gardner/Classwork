@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\bin\Debug\netcoreapp2.1\LabTen.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\bin\Debug\netcoreapp2.1\LabTen.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\bin\Debug\netcoreapp2.1\LabTen.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\bin\Debug\netcoreapp2.1\LabTen.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\bin\Debug\netcoreapp2.1\LabTen.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\obj\Debug\netcoreapp2.1\LabTen.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\obj\Debug\netcoreapp2.1\LabTen.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\obj\Debug\netcoreapp2.1\LabTen.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\obj\Debug\netcoreapp2.1\LabTen.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\obj\Debug\netcoreapp2.1\LabTen.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTen\LabTen\obj\Debug\netcoreapp2.1\LabTen.pdb

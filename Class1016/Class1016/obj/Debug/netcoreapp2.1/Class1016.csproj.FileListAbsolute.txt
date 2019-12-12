@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\bin\Debug\netcoreapp2.1\Class1016.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\bin\Debug\netcoreapp2.1\Class1016.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\bin\Debug\netcoreapp2.1\Class1016.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\bin\Debug\netcoreapp2.1\Class1016.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\bin\Debug\netcoreapp2.1\Class1016.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\obj\Debug\netcoreapp2.1\Class1016.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\obj\Debug\netcoreapp2.1\Class1016.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\obj\Debug\netcoreapp2.1\Class1016.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\obj\Debug\netcoreapp2.1\Class1016.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\obj\Debug\netcoreapp2.1\Class1016.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1016\Class1016\obj\Debug\netcoreapp2.1\Class1016.pdb

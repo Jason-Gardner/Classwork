@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\bin\Debug\netcoreapp2.1\LabEleven.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\bin\Debug\netcoreapp2.1\LabEleven.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\bin\Debug\netcoreapp2.1\LabEleven.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\bin\Debug\netcoreapp2.1\LabEleven.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\bin\Debug\netcoreapp2.1\LabEleven.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\obj\Debug\netcoreapp2.1\LabEleven.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\obj\Debug\netcoreapp2.1\LabEleven.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\obj\Debug\netcoreapp2.1\LabEleven.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\obj\Debug\netcoreapp2.1\LabEleven.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\obj\Debug\netcoreapp2.1\LabEleven.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEleven\LabEleven\obj\Debug\netcoreapp2.1\LabEleven.pdb

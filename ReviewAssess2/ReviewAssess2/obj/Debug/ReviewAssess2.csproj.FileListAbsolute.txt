@@ -1,0 +1,6 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\ReviewAssess2\ReviewAssess2\bin\Debug\ReviewAssess2.exe.config
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\ReviewAssess2\ReviewAssess2\bin\Debug\ReviewAssess2.exe
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\ReviewAssess2\ReviewAssess2\bin\Debug\ReviewAssess2.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\ReviewAssess2\ReviewAssess2\obj\Debug\ReviewAssess2.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\ReviewAssess2\ReviewAssess2\obj\Debug\ReviewAssess2.exe
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\ReviewAssess2\ReviewAssess2\obj\Debug\ReviewAssess2.pdb

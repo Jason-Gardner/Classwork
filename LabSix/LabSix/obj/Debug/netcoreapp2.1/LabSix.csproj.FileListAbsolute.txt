@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\bin\Debug\netcoreapp2.1\LabSix.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\bin\Debug\netcoreapp2.1\LabSix.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\bin\Debug\netcoreapp2.1\LabSix.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\bin\Debug\netcoreapp2.1\LabSix.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\bin\Debug\netcoreapp2.1\LabSix.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\obj\Debug\netcoreapp2.1\LabSix.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\obj\Debug\netcoreapp2.1\LabSix.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\obj\Debug\netcoreapp2.1\LabSix.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\obj\Debug\netcoreapp2.1\LabSix.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\obj\Debug\netcoreapp2.1\LabSix.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabSix\LabSix\obj\Debug\netcoreapp2.1\LabSix.pdb

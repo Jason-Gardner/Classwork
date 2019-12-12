@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\bin\Debug\netcoreapp2.1\Exercise17.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\bin\Debug\netcoreapp2.1\Exercise17.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\bin\Debug\netcoreapp2.1\Exercise17.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\bin\Debug\netcoreapp2.1\Exercise17.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\bin\Debug\netcoreapp2.1\Exercise17.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\obj\Debug\netcoreapp2.1\Exercise17.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\obj\Debug\netcoreapp2.1\Exercise17.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\obj\Debug\netcoreapp2.1\Exercise17.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\obj\Debug\netcoreapp2.1\Exercise17.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\obj\Debug\netcoreapp2.1\Exercise17.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Exercise17\Exercise17\obj\Debug\netcoreapp2.1\Exercise17.pdb

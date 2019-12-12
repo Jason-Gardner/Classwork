@@ -1,0 +1,11 @@
+﻿Interstellar,scifi
+Princess Mononoke,animated
+Seven,drama
+Howls Moving Castle,animated
+The Matrix,drama
+Castaway,drama
+Star Wars,scifi
+The Tree of Life,animated
+Get Out,horror
+Alien,horror
+Close Encounters of the Third Kind,scifi

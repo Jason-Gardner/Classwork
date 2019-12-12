@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\bin\Debug\netcoreapp2.1\Classwork114.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\bin\Debug\netcoreapp2.1\Classwork114.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\bin\Debug\netcoreapp2.1\Classwork114.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\bin\Debug\netcoreapp2.1\Classwork114.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\bin\Debug\netcoreapp2.1\Classwork114.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\obj\Debug\netcoreapp2.1\Classwork114.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\obj\Debug\netcoreapp2.1\Classwork114.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\obj\Debug\netcoreapp2.1\Classwork114.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\obj\Debug\netcoreapp2.1\Classwork114.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\obj\Debug\netcoreapp2.1\Classwork114.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork114\Classwork114\obj\Debug\netcoreapp2.1\Classwork114.pdb

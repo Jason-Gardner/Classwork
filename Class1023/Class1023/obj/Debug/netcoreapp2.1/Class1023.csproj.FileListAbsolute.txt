@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\bin\Debug\netcoreapp2.1\Class1023.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\bin\Debug\netcoreapp2.1\Class1023.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\bin\Debug\netcoreapp2.1\Class1023.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\bin\Debug\netcoreapp2.1\Class1023.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\bin\Debug\netcoreapp2.1\Class1023.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\obj\Debug\netcoreapp2.1\Class1023.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\obj\Debug\netcoreapp2.1\Class1023.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\obj\Debug\netcoreapp2.1\Class1023.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\obj\Debug\netcoreapp2.1\Class1023.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\obj\Debug\netcoreapp2.1\Class1023.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Class1023\Class1023\obj\Debug\netcoreapp2.1\Class1023.pdb

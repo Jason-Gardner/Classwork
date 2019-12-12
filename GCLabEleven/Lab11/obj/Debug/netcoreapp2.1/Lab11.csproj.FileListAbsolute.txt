@@ -1,0 +1,31 @@
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.deps.json
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.runtimeconfig.json
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.runtimeconfig.dev.json
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.dll
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.pdb
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.csprojAssemblyReference.cache
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.AssemblyInfo.cs
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.dll
+C:\Users\josep\Desktop\coding\C#\Lab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\bin\Debug\netcoreapp2.1\Lab11.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLab11\Lab11\obj\Debug\netcoreapp2.1\Lab11.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\bin\Debug\netcoreapp2.1\Lab11.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\bin\Debug\netcoreapp2.1\Lab11.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\bin\Debug\netcoreapp2.1\Lab11.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\bin\Debug\netcoreapp2.1\Lab11.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\bin\Debug\netcoreapp2.1\Lab11.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\obj\Debug\netcoreapp2.1\Lab11.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\obj\Debug\netcoreapp2.1\Lab11.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\obj\Debug\netcoreapp2.1\Lab11.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\obj\Debug\netcoreapp2.1\Lab11.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\GCLabEleven\Lab11\obj\Debug\netcoreapp2.1\Lab11.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\bin\Debug\netcoreapp2.1\Classwork1028.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\bin\Debug\netcoreapp2.1\Classwork1028.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\bin\Debug\netcoreapp2.1\Classwork1028.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\bin\Debug\netcoreapp2.1\Classwork1028.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\bin\Debug\netcoreapp2.1\Classwork1028.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\obj\Debug\netcoreapp2.1\Classwork1028.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\obj\Debug\netcoreapp2.1\Classwork1028.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\obj\Debug\netcoreapp2.1\Classwork1028.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\obj\Debug\netcoreapp2.1\Classwork1028.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\obj\Debug\netcoreapp2.1\Classwork1028.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\Classwork1028\Classwork1028\obj\Debug\netcoreapp2.1\Classwork1028.csprojAssemblyReference.cache

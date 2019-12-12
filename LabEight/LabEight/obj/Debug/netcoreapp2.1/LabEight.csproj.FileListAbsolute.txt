@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\bin\Debug\netcoreapp2.1\LabEight.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\bin\Debug\netcoreapp2.1\LabEight.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\bin\Debug\netcoreapp2.1\LabEight.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\bin\Debug\netcoreapp2.1\LabEight.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\bin\Debug\netcoreapp2.1\LabEight.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\obj\Debug\netcoreapp2.1\LabEight.csprojAssemblyReference.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\obj\Debug\netcoreapp2.1\LabEight.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\obj\Debug\netcoreapp2.1\LabEight.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\obj\Debug\netcoreapp2.1\LabEight.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\obj\Debug\netcoreapp2.1\LabEight.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabEight\LabEight\obj\Debug\netcoreapp2.1\LabEight.pdb

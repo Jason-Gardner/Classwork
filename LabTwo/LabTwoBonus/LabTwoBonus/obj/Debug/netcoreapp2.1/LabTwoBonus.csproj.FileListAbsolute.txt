@@ -1,0 +1,11 @@
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\bin\Debug\netcoreapp2.1\LabTwoBonus.deps.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\bin\Debug\netcoreapp2.1\LabTwoBonus.runtimeconfig.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\bin\Debug\netcoreapp2.1\LabTwoBonus.runtimeconfig.dev.json
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\bin\Debug\netcoreapp2.1\LabTwoBonus.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\bin\Debug\netcoreapp2.1\LabTwoBonus.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\obj\Debug\netcoreapp2.1\LabTwoBonus.csproj.CoreCompileInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\obj\Debug\netcoreapp2.1\LabTwoBonus.AssemblyInfoInputs.cache
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\obj\Debug\netcoreapp2.1\LabTwoBonus.AssemblyInfo.cs
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\obj\Debug\netcoreapp2.1\LabTwoBonus.dll
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\obj\Debug\netcoreapp2.1\LabTwoBonus.pdb
+C:\Users\Jason Gardner\Documents\Projects\ClassWork\LabTwoBonus\LabTwoBonus\obj\Debug\netcoreapp2.1\LabTwoBonus.csprojAssemblyReference.cache
